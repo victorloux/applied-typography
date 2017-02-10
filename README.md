@@ -13,7 +13,7 @@ I have to thank profusely [b*](http://marabout2ficelles.tumblr.com/) and [David 
 --- 
 
 ![Slide 2](slides/slide_002.png?raw=true)
->If I say… (spoken casually) hey Name!, (calling) hey! name!, (annoyed) hey, Name… the way they are pronounced can change the meaning of the same sentence. Here, the 3 examples will show “pleased to meet you”/being impatience/or that something’s wrong. Only the intonation gives you an idea of the situation, but the words are the same. Differences in intonation, that we’ve all internalised to mean different things verbally, can also exist in the written form. You probably don’t realise it, but people associate emotions and reactions to typefaces; they’re all part of the collective consciousness.
+>If I say… *(spoken casually)* hey Name!, *(calling, tapping on your watch)* hey! name!, *(annoyed, looking angry)* hey, Name… the way they are pronounced can change the meaning of the same sentence. Here, the 3 examples can mean “nice to meet you!”, “I’m impatient”, or imply that something’s wrong and you need to talk. Only the intonation gives you an idea of the situation, but the words are the same. Differences in intonation, that we’ve all internalised to mean different things verbally, can also exist in the written form. You probably don’t realise it, but people associate emotions and reactions to typefaces; they’re all part of the collective consciousness.
 
 --- 
 
