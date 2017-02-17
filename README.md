@@ -1,10 +1,13 @@
-# Practical Typography
+# Applied Typography
 
 Slides for a short lecture I gave at DJCAD in 2015, for product & interaction design students who didn’t know much about graphic design and print, but needed to produce some booklets and flyers **that looked relatively professional**. It wasn’t intended to be a crash course in graphic design, but provides, in 40 minutes, a good foundation of basic and efficient techniques to make your printed design look less amateur.
 
-**DIY:** The version below has the presenter notes; [the PDF version](practical-typography.pdf) does not. Feel free to reuse ideas from this talk; if you use a lot of them or the whole thing, please credit me, it is under a [Creative Commons BY-SA license](COPYING.md). My talk was followed by a quick InDesign workshop/refresher; if you’re going to run something similar then I’d highly recommend you also follow with hands-on exercises to apply these techniques. [Email me](io@victorloux.uk) if you'd like the source Keynote file.
+**DIY:** The version below has the presenter notes; [the PDF version](applied-typography.pdf) does not. Feel free to reuse ideas from this talk; if you use a lot of them or the whole thing, please credit me, it is under a [Creative Commons BY-SA license](COPYING.md). My talk was followed by a quick InDesign workshop/refresher; if you’re going to run something similar then I’d highly recommend you also follow with hands-on exercises to apply these techniques. [Email me](io@victorloux.uk) if you'd like the source Keynote file.
 
-I have to thank profusely [b*](http://marabout2ficelles.tumblr.com/) and [David Rault’s talk on typographic influences](https://vimeo.com/33020901) for inspirations and resources to make this talk! If you want to read further on the idea of practical typography for people who aren’t graphic designers, I suggest [Butterick's Practical Typography](http://practicaltypography.com/).
+I have to thank profusely [b*](http://marabout2ficelles.tumblr.com/) and [David Rault’s talk on typographic influences](https://vimeo.com/33020901) for inspirations and resources to make this talk! If you want to read further on the idea of typography for people who aren’t graphic designers, I suggest [Butterick's Practical Typography](http://practicaltypography.com/).
+
+
+> **NOTE: the first version of these slides were called “Practical Typography”. This could lead to confusion with [Butterick's Practical Typography](http://practicaltypography.com/) site and book; the projects are *not* related in any way.** (But I still recommend his work as a great complementary learning resource to this.)
 
 ---
 
